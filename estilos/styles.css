@@ -18,3 +18,13 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px black;
 }
+
+img.lado {
+     float: right;
+ }  
+ 
+img {
+
+    max-width: 400px;
+    height: auto;
+}
