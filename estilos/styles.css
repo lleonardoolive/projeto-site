@@ -19,12 +19,12 @@ main{
     box-shadow: 3px 3px 5px black;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 img.lado {
      float: right;
  }  
  
-img {
-
-    max-width: 30%;
-    height: auto;
-}
