@@ -1,6 +1,6 @@
 # Sol Piano - Pianista Cerimonial 
 
-## Projeto de um site para estudar e aprofundar os conceitos de Git, GitHub, HTML e CSS, dentre outros.
+### Projeto de um site para estudar e aprofundar os conceitos de Git, GitHub, HTML e CSS, dentre outros.
 
 *Sol Piano* é uma empresa especializada em deixar a sua cerimônia, formatura, reunião, dentre outro, inesquecível. 
 
