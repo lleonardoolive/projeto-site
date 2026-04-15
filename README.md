@@ -8,6 +8,6 @@ Com a __qualidade__ de quem estuda música há mais de 15 anos, somados a um rep
 
 Quer conhecer mais do nosso trabalho? 
 
-LinkedIn: 
-Instagram: 
-Whatsapp:
+- LinkedIn: X
+- Instagram: X
+- Whatsapp: X
